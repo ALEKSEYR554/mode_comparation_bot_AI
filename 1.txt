@@ -1,0 +1,121 @@
+<div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DDIM.webp" alt="">
+                    </div>
+                    <p>DDIM</p>
+                    <p>1 мин 38 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM2.webp" alt="">
+                    </div>
+                    <p>DPM2</p>
+                    <p>1 мин 40 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM_adaptive.webp" alt="">
+                    </div>
+                    <p>DPM adaptive</p>
+                    <p>2 мин 11 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM2_a_Karras.webp" alt="">
+                    </div>
+                    <p>DPM2 a Karras</p>
+                    <p>1 мин 31 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM2_Karras.webp" alt="">
+                    </div>
+                    <p>DPM2 Karras</p>
+                    <p>1 мин 31 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_2M.webp" alt="">
+                    </div>
+                    <p>DPM++ 2M</p>
+                    <p>1 мин 2 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_2M_Karras.webp" alt="">
+                    </div>
+                    <p>DPM++ 2M Karras</p>
+                    <p>1 мин 6 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_2S_a.webp" alt="">
+                    </div>
+                    <p>DPM++ 2S a</p>
+                    <p>1 мин 33 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_2M_Karras.webp" alt="">
+                    </div>
+                    <p>DPM++ 2S a Karras</p>
+                    <p>2 мин 34 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_SDE.webp" alt="">
+                    </div>
+                    <p>DPM++ SDE</p>
+                    <p>2 мин 59 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/DPM++_SDE_Karras.webp" alt="">
+                    </div>
+                    <p>DPM++ SDE Karras
+                    </p>
+                    <p>1 мин 30 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/LMS.webp" alt="">
+                    </div>
+                    <p>LMS</p>
+                    <p>1 мин 2 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/LMS_Karras.webp" alt="">
+                    </div>
+                    <p>LMS Karras</p>
+                    <p>1 мин 4 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/Euler.webp" alt="">
+                    </div>
+                    <p>Euler</p>
+                    <p>1 мин 2 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/Euler_a.webp" alt="">
+                    </div>
+                    <p>Euler a</p>
+                    <p>1 мин 2 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/Heun.webp" alt="">
+                    </div>
+                    <p>Heun</p>
+                    <p>1 мин 28 с</p>
+                </div>
+                <div class="card">
+                    <div class="img_cont">
+                        <img src="res/Anything_v4/UniPC.webp" alt="">
+                    </div>
+                    <p>UniPC</p>
+                    <p>1 мин 6 с</p>
+                </div>
+
